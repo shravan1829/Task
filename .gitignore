@@ -29,6 +29,6 @@ def main():
     ratio = getRatio(stock_A, stock_B)
     print(f"Ratio of Stock A to Stock B: {ratio}")
 
-if __name__ == "__main__":
+if __name__ == "__main__"
     main()
 
